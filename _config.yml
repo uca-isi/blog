@@ -16,7 +16,7 @@
 title: UCA - Blog - Ingeniería en Sistemas de Información
 email: paulo.mcnally@doc.uca.edu.ni
 description: Artículos relacionados a la carrera de Ingeniería en Sistemas de Información..
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  uca-isi
 
